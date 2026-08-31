@@ -4,15 +4,14 @@ Vehicle-Service-Management-Pega/
 │
 ├── README.md
 ├── screenshots/
-│   ├──"C:\Users\thanz\OneDrive\Pictures\Screenshots\Screenshot 2026-08-31 115834.png"
-│   ├── "C:\Users\thanz\OneDrive\Pictures\Screenshots\Screenshot 2026-08-31 115905.png"
-│   ├── "C:\Users\thanz\OneDrive\Pictures\Screenshots\Screenshot 2026-08-31 115847.png"
-│   ├──"C:\Users\thanz\OneDrive\Pictures\Screenshots\Screenshot 2026-08-31 120353.png"
-│   ├── "C:\Users\thanz\OneDrive\Pictures\Screenshots\Screenshot 2026-08-31 120353.png"
-│   └── "C:\Users\thanz\OneDrive\Pictures\Screenshots\Screenshot 2026-08-31 120611.png"
+│   ├──https://drive.google.com/file/d/14xCf18n6ConwBH-UeWb6vDrHndVVajcf/view?usp=sharing
+│   ├── https://drive.google.com/file/d/1kSSzbURXAReN4ulHNRNTyxd544HDBI33/view?usp=sharing
+│   ├── https://drive.google.com/file/d/1mA8AjWdBGWNeT4NAKBpSRc3hsKLso_qn/view?usp=drive_link
+│   ├──https://drive.google.com/file/d/1nNH-ar2dILLZ--_nQ1QIiHKhEjOMPZNk/view?usp=sharing
+│   ├──https://drive.google.com/file/d/10bK29Jce7JAfoqnYXDPVdZzobigw1ZVt/view?usp=sharing
 │
 ├── documentation/
-│   └── "C:\Users\thanz\Downloads\Vehicle_Service_Management_Project_Documentation.pdf"
+│   └── https://drive.google.com/file/d/1S_0QGMsq7tYCnkslC88_J_4H9THWz0yT/view?usp=sharing
 │
 └── demo/
     └── https://drive.google.com/file/d/1DDl5Pq9qnThi1RG5__J0Uv7lKwu6MzWU/view?usp=sharing
