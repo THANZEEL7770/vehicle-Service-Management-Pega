@@ -15,3 +15,33 @@ Vehicle-Service-Management-Pega/
 │
 └── demo/
     └── https://drive.google.com/file/d/1DDl5Pq9qnThi1RG5__J0Uv7lKwu6MzWU/view?usp=sharing
+# Vehicle Service Management Application
+
+## Project Overview
+This project is a Vehicle Service Management application developed using the Pega Platform.
+
+## Features
+- Vehicle service request creation
+- Vehicle inspection
+- Service estimate generation
+- Customer approval or rejection
+- Technician assignment
+- Service execution and status tracking
+- Case resolution
+- Notifications
+- SLA management
+- Routing based on vehicle type
+
+## Workflow
+Service Request → Vehicle Inspection → Estimate → Customer Approval → Service Execution → Resolution
+
+## Technologies Used
+- Pega Platform
+- Pega Blueprint
+- Constellation UI
+
+## Demo
+Demo video: Add your video link here
+
+## Author
+Thanzeel
