@@ -2,7 +2,6 @@
 A Vehicle Service Management application developed using Pega Platform.
 Vehicle-Service-Management-Pega/
 │
-├── README.md
 ├── screenshots/
 │   ├──https://drive.google.com/file/d/14xCf18n6ConwBH-UeWb6vDrHndVVajcf/view?usp=sharing
 │   ├── https://drive.google.com/file/d/1kSSzbURXAReN4ulHNRNTyxd544HDBI33/view?usp=sharing
@@ -22,6 +21,7 @@ This project is a Vehicle Service Management application developed using the Peg
 
 ## Features
 - Vehicle service request creation
+- screenshot-
 - Vehicle inspection
 - Service estimate generation
 - Customer approval or rejection
@@ -41,7 +41,7 @@ Service Request → Vehicle Inspection → Estimate → Customer Approval → Se
 - Constellation UI
 
 ## Demo
-Demo video: Add your video link here
+Demo video: https://drive.google.com/file/d/1DDl5Pq9qnThi1RG5__J0Uv7lKwu6MzWU/view?usp=sharing
 
 ## Author
 Thanzeel
