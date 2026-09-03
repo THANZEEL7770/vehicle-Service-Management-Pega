@@ -23,11 +23,16 @@ This project is a Vehicle Service Management application developed using the Peg
 - Vehicle service request creation
 - screenshot-
 - Vehicle inspection
+- screenshot-
 - Service estimate generation
+- screenshot-
 - Customer approval or rejection
+- screenshot-
 - Technician assignment
 - Service execution and status tracking
+- screenshot-
 - Case resolution
+- screenshot-
 - Notifications
 - SLA management
 - Routing based on vehicle type
